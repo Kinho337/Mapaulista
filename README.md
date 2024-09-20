@@ -2,7 +2,7 @@
 
 Nome do app: Mapaulista
 
-Criador e desenvolvedor: Marcos Paulo Oliveira Santos
+Criadores e desenvolvedores: Marcos Paulo Oliveira Santos e Kauã Souza
 
 Unidade de ensino: ETEC Professor Basilides De Godoy
 
